@@ -1,0 +1,20 @@
+Monday
+9:00-10:00 SMAT330C Maths Anand
+10:00-11:00 IOOM332C ObjectOrientedMethodologies Vyas
+3:00-6:00 IOOM332C-Lab ObjectOrientedMethodologiesLab Kala
+Tuesday
+9:00-11:00 ITOC330C-Tutorial TheoryOfComputationTutorial Manish
+12:15-1:15 IOPS332C OperatingSystem Jagpreet
+3:00-5:00 IOPS332C OperatingSystem Jagpreet
+Wednesday
+9:00-11:00 SMAT330C Maths Anand
+11:15-1:15 ITOC330C TheoryOfComputation Manish
+3:00-5:00 IOOM332C ObjectOrientedMethodologies Vyas
+Thursday
+9:00-10:00 EMIP332C Microprocessor Arun
+11:15-1:15 EMIP332C Microprocessor Arun
+3:00-6:00 EMIP332C-Lab MicroprocessorLab Arun
+Friday
+11:15-12:15 ITOC330C TheoryOfComputation Manish
+3:00-6:00 IOPS332C-Lab OperatingSystemLab Jagpreet
+Saturday
